@@ -1,0 +1,12 @@
+name: Class_Example
+title: Class_Example
+username:
+account: cade-knox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1364257
+bundleId: 2525388
+url: https://cade-knox.shinyapps.io/Class_Example/
+when: 1571761086.04419
+asMultiple: FALSE
+asStatic: FALSE
